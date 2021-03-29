@@ -71,7 +71,7 @@
         public const int SpamFilterTimeouts = 5;
 
 
-        /// <summary>The amount of minutes the user will be timeout for if he/she was spamming commands.</summary>
+        /// <summary>The amount of minutes the user will be timeout for if they were spamming commands.</summary>
         public const int SpamFilterTimeoutMinutes = 5;
 
 
